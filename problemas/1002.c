@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main()
-{
+int main() {
+
     double area, raio;
     double n = 3.14159;
 

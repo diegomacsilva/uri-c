@@ -2,11 +2,12 @@
 
 int main() {
 
-    int a, b, x;
+    int a, b, prod;
 
     scanf("%d %d", &a, &b);
-    x = a + b;
-    printf("X = %d\n", x);
+    prod = a * b;
+
+    printf("PROD = %d\n", prod);
 
     return 0;
 }
